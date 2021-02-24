@@ -1,0 +1,61 @@
+body{
+    background-color:lawngreen
+    
+}
+
+h1{
+    color:magenta;
+    font-family: 'B612 Mono', monospace;
+    text-align:center
+   }
+
+h2{
+        color:magenta;
+    font-family: 'B612 Mono', monospace;
+    text-align:left;
+
+    }
+
+    h3{
+        font-family: 'B612 Mono', monospace;
+        text-align:left;
+        text-emphasis: bold;
+    }
+
+
+p{
+    font-family: 'B612 Mono', monospace;
+    text-align:center;
+    color:black;
+}
+
+div{
+    
+    font-family: 'B612 Mono', monospace;
+    text-align:center;
+    font-size:larger;
+}
+
+img {
+    padding: 0;
+    display: 0;
+    margin: 0;
+    max-height: 1000%;
+    max-width: 100%;
+    position: absolute;
+}
+
+ol{
+    font-family: 'B612 Mono', monospace;
+    text-align:left;
+}
+
+ul{
+    font-family: 'B612 Mono', monospace;
+    text-align:left;
+}
+
+.img-block img {
+position: absolute;
+
+}
